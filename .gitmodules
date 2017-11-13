@@ -1,0 +1,4 @@
+[submodule "Byond2IP"]
+	path = Byond2IP
+	url = https://github.com/stuicey/Byond2IP.git
+	branch = master
